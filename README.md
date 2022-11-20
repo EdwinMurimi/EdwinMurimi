@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-- 📫 How to reach me: [My Portfolio](https://martinmwangi.netlify.app/)
-
 <center>
   <table>
   <tr>
