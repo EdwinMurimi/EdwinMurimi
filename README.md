@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some interesting statistics about my github:
+Here are some interesting statistics about my profile:
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
